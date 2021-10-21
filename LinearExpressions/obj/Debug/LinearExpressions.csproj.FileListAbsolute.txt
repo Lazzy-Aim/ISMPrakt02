@@ -1,0 +1,7 @@
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\bin\Debug\LinearExpressions.exe.config
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\bin\Debug\LinearExpressions.exe
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\bin\Debug\LinearExpressions.pdb
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\obj\Debug\LinearExpressions.csproj.AssemblyReference.cache
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\obj\Debug\LinearExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\obj\Debug\LinearExpressions.exe
+C:\Users\Lazzy\source\repos\ISMPrakt02\LinearExpressions\obj\Debug\LinearExpressions.pdb

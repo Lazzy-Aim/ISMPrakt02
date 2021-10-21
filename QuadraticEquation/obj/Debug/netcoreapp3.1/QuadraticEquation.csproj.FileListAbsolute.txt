@@ -1,0 +1,14 @@
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.exe
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.deps.json
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.json
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.dev.json
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.dll
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.pdb
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfo.cs
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.dll
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.pdb
+C:\Users\Lazzy\source\repos\ISMPrakt02\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.genruntimeconfig.cache
